@@ -34,6 +34,7 @@ exfatprogs
 f2fs-tools
 fatresize
 fsarchiver
+git
 gnu-netcat
 gpart
 gpm
@@ -165,8 +166,9 @@ sxhkd
 
 ## Networking / Internet -----
 bmon
+curl
+firefox
 inetutils
-midori
 networkmanager
 networkmanager-openvpn
 bluez
@@ -204,6 +206,7 @@ xdg-user-dirs
 
 ## Images -----
 feh
+gimp
 imagemagick
 viewnior
 
@@ -219,16 +222,11 @@ mpc
 mpd
 mplayer
 ncmpcpp
-tumbler
 
 ## Terminals -----
 alacritty
 
 ## Docs / Editors -----
-atril
-geany
-geany-plugins
-leafpad
 vim
 
 ## Fonts -----
@@ -307,8 +305,6 @@ os-prober
 lsb-release
 archcraft-grub
 
-#grub-silent
-#archcraft-grub-tools
 
 ##-------- Archcraft Packages -------##
 archcraft-skeleton
@@ -342,12 +338,14 @@ ksuperkey
 networkmanager-dmenu-git
 obmenu-generator
 perl-linux-desktopfiles
-#picom-ibhagwan-git
 plymouth
 polybar
 pyroom
+spotify
 timeshift
 toilet
 tty-clock
 unimatrix-git
+visual-studio-code-bin
 yay
+zoom
