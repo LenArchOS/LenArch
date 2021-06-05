@@ -14,3 +14,38 @@
 <p align="center">
 An Arch Linux distro built to my liking, based on <a href="https://github.com/archcraft-os/archcraft">ArchCraft</a>
 </p>
+
+**Building the ISO:**
+
+**_Check list_**
+
+- [ ] **archiso** version : `54-1`
+- [ ] At least 10GB of free space
+- [ ] Arch Linux 64-bit only
+- [ ] Clear pacman cache; `sudo pacman -Scc`
+
+* Open terminal and clone the **LenArch** repository.
+
+```bash
+git clone https://github.com/lvoytek/LenArch.git
+```
+
+- Change to the **LenArch** directory & run `setup.sh`.
+
+```bash
+cd LenArch
+chmod +x setup.sh
+./setup.sh
+```
+
+- Now, Change to the **iso** directory & run `build.sh` as **root**.
+
+```bash
+cd iso
+sudo su
+./build.sh -v
+```
+
+- If everything goes well, you'll have the ISO in **iso/out** directory. <br />
+
+> If you want to Rebuild the ISO, remove **_work_** & **_out_** dirs inside `iso` directory first. then run `./build.sh -v` as **root**. You don't need to run `setup.sh` again, it's a one time process only.
