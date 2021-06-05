@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="archcraft"
-iso_label="archcraft_$(date +%Y%m)"
-iso_publisher="Aditya Shakya <http://www.github.com/adi1090x>"
-iso_application="Yet another minimal linux distribution, based on Arch Linux."
+iso_name="lenarch"
+iso_label="lenarch_$(date +%Y%m)"
+iso_publisher="Lena Voytek <http://www.github.com/lvoytek>"
+iso_application="An Arch Linux distro built to my liking, based on ArchCraft by Aditya Shakya <http://www.github.com/adi1090x>."
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
 buildmodes=('iso')
