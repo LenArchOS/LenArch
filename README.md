@@ -4,10 +4,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square">
-  <img src="https://img.shields.io/github/license/lvoytek/lenarch?style=flat-square">
-  <img src="https://img.shields.io/github/stars/lvoytek/lenarch?style=flat-square">
-  <img src="https://img.shields.io/github/forks/lvoytek/lenarch?color=teal&style=flat-square">
-  <img src="https://img.shields.io/github/issues/lvoytek/lenarch?color=violet&style=flat-square">
+  <img src="https://img.shields.io/github/license/lenarchos/lenarch?style=flat-square">
+  <img src="https://img.shields.io/github/stars/lenarchos/lenarch?style=flat-square">
+  <img src="https://img.shields.io/github/forks/lenarchos/lenarch?color=teal&style=flat-square">
+  <img src="https://img.shields.io/github/issues/lenarchos/lenarch?color=violet&style=flat-square">
 </p>
 
 <h1 align="center">LenArch</h1>
@@ -27,7 +27,7 @@ An Arch Linux distro built to my liking, based on <a href="https://github.com/ar
 * Open terminal and clone the **LenArch** repository.
 
 ```bash
-git clone https://github.com/lvoytek/LenArch.git
+git clone https://github.com/lenarchos/LenArch.git
 ```
 
 - Change to the **LenArch** directory & run `setup.sh`.
