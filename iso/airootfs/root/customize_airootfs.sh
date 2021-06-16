@@ -30,7 +30,7 @@ if [[ ! -d "$rdir" ]]; then
 	mkdir "$rdir"
 fi
 
-rconfig=(alacritty bspwm subl gtk-3.0 Kvantum libfm pcmanfm qt5ct ranger Thunar xfce4)
+rconfig=(alacritty bspwm gtk-3.0 Kvantum libfm pcmanfm qt5ct ranger Thunar xfce4)
 for cfg in "${rconfig[@]}"; do
 	cp -rf "$sdir"/.config/"$cfg" "$rdir"
 done
