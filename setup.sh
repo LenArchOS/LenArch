@@ -91,7 +91,7 @@ set_omz () {
 	# Append some aliases
 	cat >> $DIR/iso/airootfs/etc/skel/.zshrc <<- _EOF_
 		# omz
-		alias zshconfig="geany ~/.zshrc"
+		alias zshconfig="subl ~/.zshrc"
 		alias ohmyzsh="thunar ~/.oh-my-zsh"
 
 		# ls
