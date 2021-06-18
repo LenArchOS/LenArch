@@ -307,7 +307,7 @@ xf86-video-vmware
 ##-------- grub ---------------------##
 os-prober
 lsb-release
-archcraft-grub
+lenarch-grub
 
 
 ##-------- Archcraft Packages -------##
