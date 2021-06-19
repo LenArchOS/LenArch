@@ -63,6 +63,7 @@ man-db
 man-pages
 mc
 mdadm
+meld
 mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
@@ -129,6 +130,9 @@ xorg-xkill
 xorg-xrandr
 xorg-xrdb
 xorg-xset
+xdotool
+xorg-xmodmap
+xorg-xev
 
 ##-------- Touchpad and Mouse ----------------##
 xorg-xinput
@@ -222,6 +226,7 @@ mpc
 mpd
 mplayer
 ncmpcpp
+tumbler
 
 ## Terminals -----
 alacritty
@@ -273,6 +278,7 @@ yad
 xclip
 
 ## Utilities -----
+baobab
 fortune-mod
 meld
 lxappearance
@@ -348,8 +354,11 @@ perl-linux-desktopfiles
 plymouth
 polybar
 pyroom
+spotify
 timeshift
 toilet
 tty-clock
 unimatrix-git
+xfce-polkit
+visual-studio-code-bin
 yay
