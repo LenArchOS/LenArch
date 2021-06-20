@@ -234,6 +234,7 @@ tumbler
 ## Terminals -----
 alacritty
 putty
+gnome-terminal
 
 ## Docs / Editors -----
 arduino
@@ -334,6 +335,7 @@ archcraft-about
 
 ##--------- LenArch Packages --------##
 lenarch-skel
+lenarch-cinnamon
 lenarch-openbox
 lenarch-fonts
 lenarch-scripts
