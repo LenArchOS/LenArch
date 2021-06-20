@@ -325,7 +325,6 @@ archcraft-wallpapers
 archcraft-installer
 archcraft-install-scripts
 archcraft-hooks
-archcraft-fonts
 archcraft-cursors
 archcraft-pixmaps
 archcraft-startapp
@@ -333,10 +332,11 @@ archcraft-about
 
 ##--------- LenArch Packages --------##
 lenarch-openbox
+lenarch-fonts
 lenarch-scripts
 lenarch-wallpapers
 
-lxdm-theme-archcraft
+lxdm-theme-lenarch
 grub2-theme-default
 
 ##-------- AUR Packages -------------##
