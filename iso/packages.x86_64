@@ -166,6 +166,9 @@ openbox
 bspwm
 sxhkd
 
+##-------- Cinnamon --------------------------##
+cinnamon
+
 ##-------- Programs --------------------------##
 
 ## Networking / Internet -----
@@ -317,7 +320,6 @@ lenarch-grub
 
 
 ##-------- Archcraft Packages -------##
-archcraft-skeleton
 archcraft-style-bspwm
 archcraft-gtk-themes
 archcraft-icon-packs
@@ -331,6 +333,7 @@ archcraft-startapp
 archcraft-about
 
 ##--------- LenArch Packages --------##
+lenarch-skel
 lenarch-openbox
 lenarch-fonts
 lenarch-scripts
