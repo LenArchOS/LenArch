@@ -333,6 +333,7 @@ archcraft-pixmaps
 ##--------- LenArch Packages --------##
 lenarch-skel
 lenarch-openbox
+lenarch-plasma
 lenarch-fonts
 lenarch-scripts
 lenarch-wallpapers
