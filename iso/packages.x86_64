@@ -166,8 +166,8 @@ openbox
 bspwm
 sxhkd
 
-##-------- Cinnamon --------------------------##
-cinnamon
+##-------- KDE -------------------------------##
+plasma-desktop
 
 ##-------- Programs --------------------------##
 
@@ -234,7 +234,7 @@ tumbler
 ## Terminals -----
 alacritty
 putty
-gnome-terminal
+konsole
 
 ## Docs / Editors -----
 arduino
@@ -324,18 +324,14 @@ lenarch-grub
 archcraft-style-bspwm
 archcraft-gtk-themes
 archcraft-icon-packs
-archcraft-wallpapers
 archcraft-installer
 archcraft-install-scripts
 archcraft-hooks
 archcraft-cursors
 archcraft-pixmaps
-archcraft-startapp
-archcraft-about
 
 ##--------- LenArch Packages --------##
 lenarch-skel
-lenarch-cinnamon
 lenarch-openbox
 lenarch-fonts
 lenarch-scripts
